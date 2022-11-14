@@ -1,0 +1,13 @@
+For.
+Los bucles for tienen una sintaxis similar a if. Primero se debe usar la palabra fix seguida de parentesis y luego abrir y cerrar llaves.
+Dentro del parentesis se debe declarar una variable donde se repetira el bucle. Entonces habra un condicional, el ciclo sucedera hasta que la declaracion sea false.
+Por ultimo incrementamos nuetra variable.
+
+&&, ||, !.
+
+Dentro de los operadores logicos encontramos:
+"AND" evaluara ambas expresiones y devolvera true si AMBAS expresiones son verdaderas. si uno o ambos es falso devolvera false.
+
+"OR" determinara si una de las expresiones es true. devolvera true si una (o ambas) de las expresiones son true. Devolvera false si AMBAS son false.
+
+"NOT" significa que se pide lo opuesto de la expresion, asi podemos introducir !===m que devolvera si los articulos no son identicos.
