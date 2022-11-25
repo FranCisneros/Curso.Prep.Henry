@@ -1,0 +1,6 @@
+Prototype.
+las clases tienen una forma unica de establecer un metodo una vez y dar acceso a cada objeto de esa clase a esos metodos.
+Esto se llama prototype.
+
+Constructors (de clases).
+El constructor del -proto- esta ligado a alumno y luego al object de javascript.
